@@ -1,25 +1,25 @@
 {
-	"name": "anton-malling",
+	"name": "matteo-bulleri",
 	"version": "1.0.0",
 	"description": "My personal calling card.",
 	"main": "./bin/card.js",
 	"bin": {
-		"anton-malling": "./bin/card.js"
+		"matteo-bulleri": "./bin/card.js"
 	},
 	"type": "module",
 	"scripts": {
 		"lint": "eslint bin/*.js art/*.js"
 	},
 	"keywords": [
-		"Anton",
-		"Malling",
-		"anton kapa"
+		"Matteo",
+		"Bulleri",
+		"matteo kapa"
 	],
-	"author": "Anton Malling <anton@kapa.ai> (https://www.kapa.ai/)",
+	"author": "Matteo Bulleri <matteo@kapa.ai> (https://www.kapa.ai/)",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Antonkapa/business-card.git"
+		"url": "https://github.com/matteo351/business-card.git"
 	},
 	"dependencies": {
 		"boxen": "^8.0.1",

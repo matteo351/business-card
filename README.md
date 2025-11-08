@@ -5,7 +5,7 @@ In case you ever need my information and all you have is a terminal and `npm`.
 ## Usage
 
 ```bash
-npx anton-malling
+npx matteo-bulleri
 ```
 
 Want to publish it so others can view it with `npx`?

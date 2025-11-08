@@ -1,14 +1,16 @@
 export const artOrder = [ "avatar", "banner" ];
 
 export const profile = {
-	name: "Anton Malling",
-	handle: "antonmalling",
-	bio: [ "Anton is the Chief of Staff at", "https://kapa.ai" ],
+	name: "Matteo Bulleri",
+	handle: "matteobulleri",
+	bio: [ "Matteo works as a commercial associate",
+		"Responsible for finding customers who desperately want a helpful AI assistant for their docs", 
+		"https://kapa.ai"],
 	infoSections: [
-		{ label: "Work", value: [ "Chief of Staff", "https://kapa.ai" ], style: "gradient", leadingNewline: true },
-		{ label: "Handle", value: "antonmalling", style: "purple" },
-		{ label: "Email", value: "anton@kapa.ai", style: "purple" },
-		{ label: "LinkedIn", value: "https://www.linkedin.com/in/anton-malling/", style: "purple" },
-		{ label: "Card", value: "npx anton-malling", style: "orange", leadingNewline: true }
+		{ label: "Work", value: [ "Commercial Associate", "https://kapa.ai" ], style: "gradient", leadingNewline: true },
+		{ label: "Handle", value: "matteobulleri", style: "purple" },
+		{ label: "Email", value: "matteo@kapa.ai", style: "purple" },
+		{ label: "LinkedIn", value: "https://www.linkedin.com/in/matteo-bulleri/", style: "purple" },
+		{ label: "Card", value: "npx matteo-bulleri", style: "orange", leadingNewline: true }
 	]
 };
