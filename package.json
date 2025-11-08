@@ -4,7 +4,7 @@
 	"description": "My personal calling card.",
 	"main": "./bin/card.js",
 	"bin": {
-		"matteo-bulleri": "./bin/card.js"
+		"matteo-bulleri": "bin/card.js"
 	},
 	"type": "module",
 	"scripts": {
@@ -19,7 +19,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/matteo351/business-card.git"
+		"url": "git+https://github.com/matteo351/business-card.git"
 	},
 	"dependencies": {
 		"boxen": "^8.0.1",
